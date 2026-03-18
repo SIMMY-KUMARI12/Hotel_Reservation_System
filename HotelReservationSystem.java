@@ -182,7 +182,7 @@ class FoodDelivery {
     }
 }
 
-public class HotelReservationSystem {
+public class FoodDeliverySystem {
     public static void main(String[] args) {
         FoodDelivery system = new FoodDelivery();
         system.start();
